@@ -256,15 +256,6 @@ module.exports = component.register('gaia-list', {
       width: auto;
     }
 
-    /**
-     * Reverse the icons when the document is RTL mode
-     */
-
-    :host-context([dir=rtl]) ::content i:before {
-      transform: scale(-1, 1);
-      text-align: end;
-    }
-
     /** Divided
      ---------------------------------------------------------*/
 

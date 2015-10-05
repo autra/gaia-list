@@ -30,7 +30,7 @@ Semantic
   <a>
     <i data-icon="brightness"></i>
     <h3 flex>Menu 1</h3>
-    <i data-icon="forward-light"></i>
+    <i data-icon="right-light"></i>
   </a>
 </gaia-list>
 ```
@@ -42,7 +42,7 @@ class based
   <a>
     <i data-icon="brightness"></i>
     <div class="gaia-item-title" flex>Menu 1</div>
-    <i data-icon="forward-light"></i>
+    <i data-icon="right-light"></i>
   </a>
 </gaia-list>
 ```
